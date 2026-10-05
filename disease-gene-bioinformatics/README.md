@@ -148,9 +148,31 @@ The most interesting thing was how crowded the ClinVar track is across BRCA1, wi
 
 ## 9. References and Links
 
-- UCSC Genome Browser: https://genome.ucsc.edu/
+All resources were accessed on October 2, 2026, using the human GRCh38/hg38 assembly.
+
+### Web resources used in this activity
+
+- UCSC Genome Browser (Human, GRCh38/hg38): https://genome.ucsc.edu/
 - UCSC Genome Browser tutorials: https://genome.ucsc.edu/docs/tutorials/
-- UCSC Genome Browser 101: https://genome.ucsc.edu/docs/tutorials/gb101.html
+- UCSC Genome Browser 101 tutorial: https://genome.ucsc.edu/docs/tutorials/gb101.html
 - NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
 - NCBI ClinVar search help: https://www.ncbi.nlm.nih.gov/clinvar/docs/help/
-- ClinVar record of the selected variant (BRCA1 c.68_69delAG, VCV000017662): https://www.ncbi.nlm.nih.gov/clinvar/variation/17662/
+
+### Selected variant record
+
+- ClinVar record for BRCA1 c.68_69delAG (VCV000017662, Variation ID 17662): https://www.ncbi.nlm.nih.gov/clinvar/variation/17662/
+
+### UCSC tracks used
+
+- GENCODE V50 (gene annotation)
+- NCBI RefSeq Curated (gene annotation)
+- MANE Select Plus Clinical (transcript NM_007294.4 / ENST00000357654.9)
+- ClinVar Variants (SNVs, CNVs and interpretations)
+- 100 Vertebrates Basewise Conservation by PhyloP
+- Multiz Alignments of 100 Vertebrates
+
+### Other data sources
+
+- dbSNP release 155, rs80357914 (shown in the ClinVar record)
+- ClinGen ENIGMA BRCA1/BRCA2 Variant Curation Expert Panel (June 2024 classification shown in ClinVar)
+- My Galaxy mutation lab on BRCA1 c.68_69delAG (used for the protein translation result in
