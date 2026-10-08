@@ -6,7 +6,7 @@
 | **Assigned gene** | BRCA1 |
 | **Associated disease** | Hereditary Breast and Ovarian Cancer (HBOC) |
 | **Activity** | Bioinformatics Lab Activity: Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar |
-| **Date completed** | October 2, 2026 |
+| **Date completed** | September 23, 2026 |
 
 ---
 
