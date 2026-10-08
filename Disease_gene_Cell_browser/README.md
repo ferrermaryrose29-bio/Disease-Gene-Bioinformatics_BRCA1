@@ -1,5 +1,3 @@
----
-
 # UCSC Cell Browser Activity
 
 **From Genome to Cell: Exploring Disease Gene Using the UCSC Cell Browser**
