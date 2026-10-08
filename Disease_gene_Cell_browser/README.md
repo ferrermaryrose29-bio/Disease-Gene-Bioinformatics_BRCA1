@@ -129,7 +129,7 @@ The top of the table was mostly clone IDs (RP11-494H4.3, RP11-404O13.5, RP11-76E
 
 **Screenshot 5: Monocyte 2 and its marker-gene table**
 
-![Screenshot 5 - Marker genes](Screenshots/05_marker_genes.png)
+![Screenshot 5 - marker gene](Screenshots/05_marker_gene.png)
 
 ---
 
