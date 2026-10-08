@@ -8,7 +8,7 @@
 |---|---|
 | **Assigned gene** | BRCA1 |
 | **Associated disease** | Hereditary Breast and Ovarian Cancer (HBOC) |
-| **Date completed** | October 8, 2026 |
+| **Date completed** | September 25, 2026 |
 
 This is the same gene I used in the UCSC Genome Browser and ClinVar activity above.
 
